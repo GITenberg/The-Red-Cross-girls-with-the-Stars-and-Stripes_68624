@@ -1,0 +1,36 @@
+_repo: The-Red-Cross-girls-with-the-Stars-and-Stripes_68624
+_version: 0.0.1
+alternative_title: The Red Cross girls under the Stars and Stripes
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    alias: Vandercook, Margaret O'Bannon Womack
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_issued: '2022-07-28'
+identifiers:
+  gutenberg: '68624'
+language: en
+pgterms:marc905: 20220508141631vandercook
+pgterms:marc906: '1917'
+pgterms:marc907: us
+production_note: David Edwards, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :The John C. Winston Co.,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Red Cross and Red Crescent -- Juvenile fiction'
+- !lcsh 'Participation -- Juvenile fiction'
+- !lcsh 'War stories'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- GITenberg
+title: The Red Cross girls with the Stars and Stripes
+url: http://www.gutenberg.org/ebooks/68624
